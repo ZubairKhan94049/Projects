@@ -4,7 +4,7 @@ Python interpretter (https://www.python.org/downloads/)
 selenium (pip install selenium)
 Chrom Browser (https://www.google.com/chrome/?brand=BNSD&gclid=CjwKCAjwiJqWBhBdEiwAtESPaKzgfWdNGF6KvmTzSzm7cMJoHqhnew6pZdRORq4v65F4GuqC-LqoGxoCswAQAvD_BwE&gclsrc=aw.ds)
 
-if not use 
+Steps to run the code 
 
-pip install selenum
+run cmd 
 
