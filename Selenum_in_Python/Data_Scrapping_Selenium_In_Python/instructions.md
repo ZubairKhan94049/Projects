@@ -7,4 +7,6 @@ Chrome Browser (https://www.google.com/chrome/?brand=BNSD&gclid=CjwKCAjwiJqWBhBd
 Steps to run the code 
 
 run cmd 
-change directory where the script.py is present 
+change directory where the Script.py is present 
+type python Script.py in cmd
+Hit Enter
